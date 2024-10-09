@@ -1,13 +1,13 @@
-# RAFF 📦✨
+# RAFF 🦊
 
-RAFF is a Rust library designed for handling custom binary container formats with efficient variable-length encoding. Whether you’re building game servers, data storage solutions, or any application that requires structured binary data manipulation, RAFF provides the tools you need to work seamlessly and efficiently.
+RAFF is a Rust library designed for handling custom binary container formats with efficient variable-length encoding.
 
 ## 🚀 Features
 
 * TwoCC Tagging 🏷️: Utilize two-character codes for compact and readable tags.
 * Variable-Length Encoding (VLQ) 🔢: Efficiently encode u32 sizes using up to 4 octets.
 
-## 🛠 Installation
+## 📦 Installation
 
 Add RAFF to your project by adding the following to your Cargo.toml:
 
